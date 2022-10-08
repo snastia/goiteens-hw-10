@@ -1,0 +1,37 @@
+body{
+    color: aqua;
+}
+/* .icon{
+   outline: 2px dashed green;
+   width: 500px;
+   height: 500px;
+   fill:red ;
+} */
+/* .box{
+    outline: 1px solid black;
+    width: 100px;
+} */
+
+.link{
+    width: 44px;
+    height: 44px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    background-color: #ffff;
+    color: #AFB1B8;
+}
+.link:hover,
+.link:focus{
+    background-color: #2196F3;
+    color: #ffff;
+}
+.icon{
+    width: 20px;
+    height: 20px;
+    fill: currentColor;
+}
+/* div:hover {
+    color:blue ;
+} */
